@@ -300,7 +300,7 @@ six==1.16.0
     #   rfc3339-validator
 sortedcontainers==2.4.0
     # via hypothesis
-sqlalchemy==2.0.25
+sqlalchemy==2.0.36
     # via
     #   -r requirements/prod.txt
     #   alembic
