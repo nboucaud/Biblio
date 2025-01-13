@@ -204,7 +204,7 @@ six==1.16.0
     #   elasticsearch-dsl
     #   python-dateutil
     #   rfc3339-validator
-sqlalchemy==2.0.25
+sqlalchemy==2.0.37
     # via
     #   -r requirements/prod.in
     #   alembic
